@@ -1,0 +1,16 @@
+{
+  "name": "motogp-fetch",
+  "version": "1.0.0",
+  "description": "Script Puppeteer para coletar dados do MotoGP 2025",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^21.0.0"
+  },
+  "keywords": ["motogp", "puppeteer", "nodejs", "scraping"],
+  "author": "Seu Nome",
+  "license": "MIT"
+}
